@@ -1,4 +1,4 @@
-# BLACKPINKTribute-page
+#blackpink-tribute
 
 ##Visão Geral
 
