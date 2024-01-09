@@ -20,7 +20,5 @@ Abra o arquivo index.html em seu navegador preferido.
 ## Autor
 [Danny Machado] - [Dannyz817]
 
-## Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
 
 
